@@ -32,7 +32,7 @@ This will launch the web app in your browser.
 👩‍🔬 User Guide (Front-End Flow)
 1) Enter a DNA sequence into the input box on the Streamlit web page.
 2) The app automatically selects the correct model based on sequence length.
-3) The predicted CpG (CG) count is shown immediately below the input.
+3) The predicted CpG (CG) count is shown immediately below the input, on clicking Enter.
 
 
 ✅ Notes
